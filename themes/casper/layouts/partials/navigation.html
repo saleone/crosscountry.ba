@@ -1,0 +1,31 @@
+{{$menutext := or .Params.i18n.menu.title .Site.Params.i18n.menu.title }}
+<div class="nav">
+	<h3 class="nav-title">{{ $menutext }}</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.main}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
+            	<a href="{{.URL}}">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+	<br>
+	{{ if .IsTranslated }}
+	{{ range .Translations }}
+	    <li class="nav-opened" role="presentation">
+		<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+	    </li>
+	{{ end}}
+	{{ end }}
+    </ul>
+
+    {{ if .Site.Params.RSSLink}}
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
+    {{end}}
+</div>
+<span class="nav-cover"></span>

@@ -1,0 +1,52 @@
+---
+title: "Контакт"
+date: 2020-11-04T22:09:43+01:00
+draft: false
+---
+
+<form action="https://submit-form.com/VLD0hLv9" target="_self">
+  <div>
+    <label for="fname">Име</label>
+    <input type="text" id="fname" name="firstname" placeholder="Име...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="lname">Презиме</label>
+    <input type="text" id="lname" name="lastname" placeholder="Презиме...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="cmp">Компанија</label>
+    <input type="text" id="cmp" name="company" placeholder="Компанија...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="email">Е-пошта</label>
+    <input type="text" id="emal" name="email" placeholder="Адреса е-поште...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="subject">Порука</label>
+    <textarea id="subject" name="subject" placeholder="Ваша порука..." style="height:200px"></textarea>
+    <br>
+  </div>
+
+
+  <input type="hidden" name="_redirect" value="{{< here "sr/thanks" >}}">
+
+  <div style="text-align: center">
+    <script src="https://www.google.com/recaptcha/api.js?hl=sr" async defer></script>
+    <div class="g-recaptcha" data-sitekey="6LdfWuAZAAAAAAI_9O7zXx9BgHQZQ2Y2Iuzej5GG" style='display:inline-block;'></div>
+    <br>
+    <input type="submit" value="Пошаљи" style="margin-top: 5vh;">
+  </div>
+</form>
+<br>

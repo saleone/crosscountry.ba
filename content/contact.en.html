@@ -1,0 +1,52 @@
+---
+title: "Contact"
+date: 2020-11-04T22:09:43+01:00
+draft: false
+---
+
+<form action="https://submit-form.com/VLD0hLv9" target="_self">
+  <div>
+    <label for="fname">Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Name..." required>
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="lname">Last name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Last name..." required>
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="cmp">Company</label>
+    <input type="text" id="cmp" name="company" placeholder="Company...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="email">E-mail</label>
+    <input type="text" id="emal" name="email" placeholder="E-mail address...">
+    <br>
+    <br>
+  </div>
+
+  <div>
+    <label for="subject" required>Message</label>
+    <textarea id="subject" name="subject" placeholder="Your message..." style="height:200px"></textarea>
+    <br>
+  </div>
+
+
+  <input type="hidden" name="_redirect" value="{{< here "en/thanks">}}">
+
+  <div style="text-align: center">
+    <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+    <div class="g-recaptcha" data-sitekey="6LdfWuAZAAAAAAI_9O7zXx9BgHQZQ2Y2Iuzej5GG" style='display:inline-block;'></div>
+    <br>
+    <input type="submit" value="Send" style="margin-top: 5vh;">
+  </div>
+</form>
+<br>

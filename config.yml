@@ -1,0 +1,161 @@
+baseURL: 'https://crosscountry.ba/'
+DefaultContentLanguage: ba
+theme: casper
+paginate: 5
+
+params:
+  cover: bg-min.jpg
+  logo: logo.svg
+  hideHUGOSupport: true
+  facebookName: paraglidingbanjaluka
+  instagramName: crosscountry.ba
+  email: contact@crosscountry.ba
+  noauthor: false
+  hideSuggestions: true
+
+languages:
+  ba:
+    weight: 1
+    title: Cross Country
+    languageCode: bs
+    languageName: Latinica
+    params:
+      description: Klub Slobodnog Letenja, Banja Luka
+      metadescription: >-
+
+      hideSuggestions: true
+    i18n:
+      share:
+        text: Podijeli ovu stranicu
+      menu:
+        title: Meni
+      blog:
+        newest: Novosti
+    menu:
+      main:
+        - name: Blog
+          identifier: blog
+          url: /blog
+          weight: 10
+
+        - name: Škola
+          identifier: school
+          url: /school
+          weight: 5
+
+        - name: Tandem
+          identifier: tandem
+          url: /tandem
+          weight: 4
+
+        - name: Klub
+          identifier: about
+          url: /about
+          weight: 3
+
+        - name: Dokumenti
+          identifier: docs
+          url: /docs
+          weight: 2
+
+        - name: Kontakt
+          identifier: contact
+          url: /contact
+          weight: 1
+  sr:
+    weight: 2
+    languageCode: sr
+    title: КРОС
+    languageName: Ћирилица
+    params:
+      description: Клуб Слободног Летења, Бања Лука
+      metadescription: >-
+
+      hideSuggestions: true
+    i18n:
+      share:
+        text: Подијели ову страницу
+      menu:
+        title: Мени
+      blog:
+        newest: Новости
+    menu:
+      main:
+        - name: Блог
+          identifier: blog
+          url: /sr/blog
+          weight: 10
+
+        - name: Школа
+          identifier: school
+          url: /sr/school
+          weight: 5
+
+        - name: Тандем
+          identifier: tandem
+          url: /sr/tandem
+          weight: 4
+
+        - name: О клубу
+          identifier: about
+          url: /sr/about
+          weight: 3
+
+        - name: Документи
+          identifier: docs
+          url: /docs
+          weight: 2
+
+        - name: Контакт
+          identifier: contact
+          url: /sr/contact
+          weight: 1
+
+  en:
+    weight: 3
+    title: Cross Country
+    languageCode: en
+    languageName: English
+    i18n:
+      share:
+        text: Share this page
+      menu:
+        title: Menu
+      blog:
+        newest: Recent
+    params:
+      description: Free Flight Club, Banja Luka
+      metadescription: >-
+
+      hideSuggestions: true
+    menu:
+      main:
+        - name: Blog
+          identifier: blog
+          url: /en/blog
+          weight: 10
+
+        - name: Training
+          identifier: school
+          url: /en/school
+          weight: 5
+
+        - name: Tandem
+          identifier: tandem
+          url: /en/tandem
+          weight: 4
+
+        - name: About
+          identifier: about
+          url: /en/about
+          weight: 3
+
+        - name: Documents
+          identifier: docs
+          url: /docs
+          weight: 2
+
+        - name: Contact
+          identifier: contact
+          url: /en/contact
+          weight: 1
