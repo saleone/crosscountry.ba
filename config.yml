@@ -43,25 +43,25 @@ languages:
           url: /blog
           weight: 10
 
-        - name: Škola
-          identifier: school
-          url: /school
-          weight: 5
+          # - name: Škola
+          #   identifier: school
+          #   url: /school
+          #   weight: 5
 
-        - name: Tandem
-          identifier: tandem
-          url: /tandem
-          weight: 4
+          # - name: Tandem
+          #   identifier: tandem
+          #   url: /tandem
+          #   weight: 4
 
-        - name: Klub
-          identifier: about
-          url: /about
-          weight: 3
+          # - name: Klub
+          #   identifier: about
+          #   url: /about
+          #   weight: 3
 
-        - name: Dokumenti
-          identifier: docs
-          url: /docs
-          weight: 2
+          # - name: Dokumenti
+          #   identifier: docs
+          #   url: /docs
+          #   weight: 2
 
         - name: Kontakt
           identifier: contact
@@ -96,25 +96,25 @@ languages:
           url: /sr/blog
           weight: 10
 
-        - name: Школа
-          identifier: school
-          url: /sr/school
-          weight: 5
+          # - name: Школа
+          #   identifier: school
+          #   url: /sr/school
+          #   weight: 5
 
-        - name: Тандем
-          identifier: tandem
-          url: /sr/tandem
-          weight: 4
+          # - name: Тандем
+          #   identifier: tandem
+          #   url: /sr/tandem
+          #   weight: 4
 
-        - name: О клубу
-          identifier: about
-          url: /sr/about
-          weight: 3
+          # - name: О клубу
+          #   identifier: about
+          #   url: /sr/about
+          #   weight: 3
 
-        - name: Документи
-          identifier: docs
-          url: /docs
-          weight: 2
+          # - name: Документи
+          #   identifier: docs
+          #   url: /docs
+          #   weight: 2
 
         - name: Контакт
           identifier: contact
@@ -145,30 +145,30 @@ languages:
           url: /en
           weight: 20
 
-        - name: Blog
-          identifier: blog
-          url: /en/blog
-          weight: 10
+          # - name: Blog
+          #   identifier: blog
+          #   url: /en/blog
+          #   weight: 10
 
-        - name: Training
-          identifier: school
-          url: /en/school
-          weight: 5
+          # - name: Training
+          #   identifier: school
+          #   url: /en/school
+          #   weight: 5
 
-        - name: Tandem
-          identifier: tandem
-          url: /en/tandem
-          weight: 4
+          # - name: Tandem
+          #   identifier: tandem
+          #   url: /en/tandem
+          #   weight: 4
 
-        - name: About
-          identifier: about
-          url: /en/about
-          weight: 3
+          # - name: About
+          #   identifier: about
+          #   url: /en/about
+          #   weight: 3
 
-        - name: Documents
-          identifier: docs
-          url: /docs
-          weight: 2
+          # - name: Documents
+          #   identifier: docs
+          #   url: /docs
+          #   weight: 2
 
         - name: Contact
           identifier: contact
