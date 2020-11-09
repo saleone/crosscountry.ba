@@ -33,6 +33,11 @@ languages:
         newest: Novosti
     menu:
       main:
+        - name: Početna
+          identifier: home
+          url: /
+          weight: 20
+
         - name: Blog
           identifier: blog
           url: /blog
@@ -81,6 +86,11 @@ languages:
         newest: Новости
     menu:
       main:
+        - name: Почетна
+          identifier: home
+          url: /sr
+          weight: 20
+
         - name: Блог
           identifier: blog
           url: /sr/blog
@@ -130,6 +140,11 @@ languages:
       hideSuggestions: true
     menu:
       main:
+        - name: Home
+          identifier: home
+          url: /en
+          weight: 20
+
         - name: Blog
           identifier: blog
           url: /en/blog
