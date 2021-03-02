@@ -1,7 +1,7 @@
 ---
 title: "КСЛ Крос - Нирбирдс БиХ Дистрибутер"
 date: 2021-02-26Т10:00:00+01:00
-draft: true
+draft: false
 ---
 
 ![Нирбирдс Лого](/blog/nearbirds/logo-invert.png)
