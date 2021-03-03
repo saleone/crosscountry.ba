@@ -4,7 +4,7 @@ date: 2021-02-06T10:00:00+01:00
 draft: false
 ---
 
-Već krajem sezone prošle godine počela je priprema za ovu godinu. Klub, zajedno sa nekoliko polaznika, je počeo sa obnabvljanjem opreme.
+Već krajem sezone prošle godine počela je priprema za ovu godinu. Klub, zajedno sa nekoliko polaznika, je počeo sa obnavljanjem opreme.
 Proces je malo potrajao (što bi trebao da bude manji problem [sada](/blog/2020-26-02_nearbirds-announcement)), ali oprema je stigla.
 
 Šta to znači za članove ili eventualno nove polaznike? Puno manje praznog hoda, ako ne letite ground-handling će biti opcija.
