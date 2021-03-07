@@ -10,7 +10,7 @@
         {{end}}
     </section>
     <footer class="post-meta">
-        
+
 
         {{ if or .Params.author .Site.Params.author}}
             {{$authorname := or .Params.author .Site.Params.author }}
@@ -19,10 +19,10 @@
             {{with $authoravatar}}
             <img class="author-thumb" src="{{ $authoravatar| relURL  }}" alt="Author image" nopin="nopin" />
             {{end}}
-            
+
             {{with $authorname}}
             {{$authorname}}
-            {{end}}     
+            {{end}}
         {{end}}
 
         {{if .Params.tags }}on

@@ -2,6 +2,7 @@
 title: "Our new website is live!"
 date: 2020-11-08T00:30:00+01:00
 draft: false
+disable-summary: Club just got a new website. Read more about the future plans in this article.
 ---
 
 **This article has not been translated to English yet.**

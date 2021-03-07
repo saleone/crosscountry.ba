@@ -58,10 +58,10 @@ languages:
           #   url: /about
           #   weight: 3
 
-          # - name: Dokumenti
-          #   identifier: docs
-          #   url: /docs
-          #   weight: 2
+        - name: Dokumenti
+          identifier: docs
+          url: /docs
+          weight: 2
 
         - name: Kontakt
           identifier: contact
@@ -111,10 +111,10 @@ languages:
           #   url: /sr/about
           #   weight: 3
 
-          # - name: Документи
-          #   identifier: docs
-          #   url: /docs
-          #   weight: 2
+        - name: Документи
+          identifier: docs
+          url: /sr/docs
+          weight: 2
 
         - name: Контакт
           identifier: contact
@@ -165,10 +165,10 @@ languages:
           #   url: /en/about
           #   weight: 3
 
-          # - name: Documents
-          #   identifier: docs
-          #   url: /docs
-          #   weight: 2
+        - name: Documents
+          identifier: docs
+          url: /en/docs
+          weight: 2
 
         - name: Contact
           identifier: contact

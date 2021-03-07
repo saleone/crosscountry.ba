@@ -2,8 +2,8 @@
 title: "Naša nova internet stranica!"
 date: 2020-11-08T00:30:00+01:00
 draft: false
+disable-summary: Klub je osježio svoju web prezentaciju. Pročitajte više o planovima za njenu budućnost u ovom članku.
 ---
-
 Klub "Cross Country" je ponovo online nakon dužeg vremena bez namjenske internet stranice.
 
 ## Zašto?
