@@ -580,7 +580,7 @@ body.nav-opened .site-wrapper {
 
 /* Big cover image on the home page */
 .main-header {
-    position: relative;
+    /* position: relative; disabled because of the page contact clipping the logo */
     display: table;
     width: 100%;
     height: 100vh;
