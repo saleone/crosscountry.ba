@@ -1,7 +1,7 @@
 ---
 title: "Završen teorijski dio obuke (gen. 2020/2021)"
 date: 2021-03-11T10:00:00+01:00
-draft: true
+draft: false
 ---
 
 Da se podsjetimo, teorijska obuka obuhvata sljedeća predavanja:
@@ -20,7 +20,7 @@ Oni se oslanjaju na stubove toplog vazduha koji se izdiže kako bi dobili visinu
 dovoljno govori o tome. Jako je bitno da svi piloti znaju kada mogu da lete, a još važnije kada treba
 da sačekaju ili odustanu od leta.
 
-Obuka je održana u Hotelu Bosna sa početkom u 17 časova u trajanju od 3 časa. Na našoj
+Obuka je održana u Hotelu Bosna sa početkom u 17 časova u trajanju od 4 časa. Na našoj
 [instagram stranici]("https://www.instagram.com/crosscountry.ba/") možete pronaći fotografije.
 
 Kao i uvijek, sigurnost na prvom mjestu!
