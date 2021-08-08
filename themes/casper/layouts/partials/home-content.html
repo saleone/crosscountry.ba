@@ -23,8 +23,14 @@
     <div class="extra-pagination inner">
         {{ partial "pagination.html" $paginator }}
     </div>
-
-    <h1 style='text-align: center;'>{{ $recent_art_text }}</h1><hr>
+    <div id="dealer-logos">
+        <a href="/contact">
+		<img src="/dealer/nearbirds.png" alt="Nearbirds Logo">
+		<img src="/dealer/air3.png" alt="Air3 Logo">
+		<img src="/dealer/wv.png" alt="Woody Valley Logo">
+        </a>
+    </div>
+    <br><h1 style='text-align: center;'>{{ $recent_art_text }}</h1>
     {{ range $index, $page := $paginator.Pages }}
         {{ partial "li.html" . }}
     {{ end }}
