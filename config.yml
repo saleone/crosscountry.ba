@@ -13,6 +13,11 @@ params:
   noauthor: false
   hideSuggestions: true
 
+
+disableLanguages:
+- sr
+- en
+
 languages:
   ba:
     weight: 1
