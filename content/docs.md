@@ -6,21 +6,19 @@ draft: false
 
 ---
 
-## Priručnici za korištenje terena
+**Statut kluba - [Preuzmi PDF](/docs/statut_kros.pdf)**
 
-### Manjača, Stričići
-**Maj 2019**
+**Zahtjev za prijem u članstvo - [Preuzmi PDF](/docs/zahtjev_clanstvo.pdf)**
 
-**[Preuzmi PDF](/docs/prirucnik-za-koristenje-terena-manjaca-maj-2019.pdf)**
-
+**Priručnik za korištenje terena (Manjača, Stričići) - Maj 2019 - [Preuzmi PDF](/docs/prirucnik-za-koristenje-terena-manjaca-maj-2019.pdf)**
 
 ---
 
 ## Uplatnice
-### Uplata članarine
+**Uplata članarine** - **[Preuzmi PNG](/docs/uplatnica-clanarina.png)**
 ![Uplatnica](/docs/uplatnica-clanarina.png)
 
-**[Preuzmi PNG](/docs/uplatnica-clanarina.png)**
+---
 
 
 
