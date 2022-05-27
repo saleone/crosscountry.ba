@@ -2,6 +2,7 @@ baseURL: 'https://crosscountry.ba/'
 DefaultContentLanguage: ba
 theme: casper
 paginate: 5
+summaryLength: 10
 
 params:
   cover: bg-min.jpg
@@ -15,8 +16,7 @@ params:
 
 
 disableLanguages:
-- sr
-- en
+  - sr
 
 languages:
   ba:
