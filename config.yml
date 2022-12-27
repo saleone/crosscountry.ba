@@ -21,11 +21,11 @@ disableLanguages:
 languages:
   ba:
     weight: 1
-    title: KSL Cross Country | Woody Valley, Flow Paragliders, Charly Finsterwalder, Air3, NearBirds
+    title: Cross Country
     languageCode: bs
     languageName: Latinica
     params:
-      description: Klub Slobodnog Letenja, Banja Luka. Zastupnik za Woody Valley, Flow Paragliders, Charly Finsterwalder, Air3 i Nearbirds. Sponsored by Mozzart.
+      description: Klub Slobodnog Letenja, Banja Luka
       metadescription: >-
 
       hideSuggestions: true
@@ -128,7 +128,7 @@ languages:
 
   en:
     weight: 3
-    title: KSL Cross Country | Woody Valley, Flow Paragliders, Charly Finsterwalder, Air3, NearBirds
+    title: Cross Country
     languageCode: en
     languageName: English
     i18n:
@@ -139,7 +139,7 @@ languages:
       blog:
         newest: Recent
     params:
-      description: Free Flight Club, Banja Luka. Dealer for Woody Valley, Flow Paragliders, Charly Finsterwalder, Air3 and Nearbirds. Sponsored by Mozzart.
+      description: Free Flight Club, Banja Luka
       metadescription: >-
 
       hideSuggestions: true
