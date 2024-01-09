@@ -18,6 +18,13 @@ draft: false
 **Uplata članarine** - **[Preuzmi PNG](/docs/uplatnica-clanarina.png)**
 ![Uplatnica](/docs/uplatnica-clanarina.png)
 
+> U slučaju da uplaćujete za drugo lice, napomenuti u polju "**Svrha doznake**".
+
+* Broj tekućeg računa: **5551000034652927**
+* Svrha doznake: **Uplata članarine za &lt;tekuća-godina&gt;**
+* Primalac: **KSL "KROS" Banja Luka**
+* Iznos: **200,00 KM**
+
 ---
 
 
